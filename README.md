@@ -9,5 +9,5 @@
 
 ### 信息系统生命周期
 
-* [](docs/devbasic/life.md)
+* [](docs/devbasic/lifecycle.md)
 
