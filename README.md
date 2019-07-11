@@ -1,4 +1,4 @@
-# inspm
+# 信息系统项目管理师
 备考2019年 软考高级 信息系统项目管理师
 
 `信息系统项目管理师`：  
@@ -21,4 +21,5 @@
 ### 信息系统开发基础
 
 * [信息系统生命周期](docs/devbasic/lifecycle.md)
+* [信息系统规划方法](docs/devbasic/planningmethod.md)
 
