@@ -24,8 +24,8 @@
 
 * [信息系统生命周期](docs/devbasic/lifecycle.md)
 * [信息系统规划方法](docs/devbasic/planningmethod.md)
-* [信息系统开发方法](docs/devbasic/planningmethod.md)
-* [软件开发模型](docs/devbasic)
+* [信息系统开发方法](docs/devbasic/developmentmethod.md)
+* [软件开发模型](docs/devbasic/developmentmodel.md)
 * [软件工程](docs/devbasic)
 * [需求工程](docs/devbasic)
 * [架构设计](docs/devbasic)
